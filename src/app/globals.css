@@ -1,26 +1,85 @@
 @import "tailwindcss";
 
+/* ----------------------------------------------------------------
+   COMMIT CROWN — Gold / White Aviation-Data Theme
+   ---------------------------------------------------------------- */
+
 :root {
+  /* Core palette */
   --background: #ffffff;
-  --foreground: #171717;
+  --background-secondary: #faf9f7;
+  --foreground: #1a1a1a;
+  --foreground-muted: #6b6b6b;
+  --foreground-subtle: #999999;
+
+  /* Gold accent spectrum */
+  --gold: #d4a017;
+  --gold-light: #f5d060;
+  --gold-dark: #b8860b;
+  --gold-50: #fefce8;
+  --gold-100: #fef9c3;
+  --gold-200: #fef08a;
+
+  /* Trophy metals */
+  --trophy-gold: #ffd700;
+  --trophy-silver: #c0c0c0;
+  --trophy-bronze: #cd7f32;
+
+  /* Borders & surfaces */
+  --border: #e5e5e0;
+  --border-light: #f0efeb;
+  --card: #ffffff;
+  --card-hover: #fffdf5;
+
+  /* Heatmap contribution levels */
+  --heat-0: #ebedf0;
+  --heat-1: #fef3c7;
+  --heat-2: #fde68a;
+  --heat-3: #f59e0b;
+  --heat-4: #d97706;
 }
 
 @theme inline {
   --color-background: var(--background);
+  --color-background-secondary: var(--background-secondary);
   --color-foreground: var(--foreground);
+  --color-foreground-muted: var(--foreground-muted);
+  --color-foreground-subtle: var(--foreground-subtle);
+  --color-gold: var(--gold);
+  --color-gold-light: var(--gold-light);
+  --color-gold-dark: var(--gold-dark);
+  --color-gold-50: var(--gold-50);
+  --color-gold-100: var(--gold-100);
+  --color-gold-200: var(--gold-200);
+  --color-trophy-gold: var(--trophy-gold);
+  --color-trophy-silver: var(--trophy-silver);
+  --color-trophy-bronze: var(--trophy-bronze);
+  --color-border: var(--border);
+  --color-border-light: var(--border-light);
+  --color-card: var(--card);
+  --color-card-hover: var(--card-hover);
+  --color-heat-0: var(--heat-0);
+  --color-heat-1: var(--heat-1);
+  --color-heat-2: var(--heat-2);
+  --color-heat-3: var(--heat-3);
+  --color-heat-4: var(--heat-4);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection color */
+::selection {
+  background-color: var(--gold-200);
+  color: var(--foreground);
 }
