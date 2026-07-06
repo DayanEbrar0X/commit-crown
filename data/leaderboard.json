@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-29T01:06:15.393Z",
+  "updatedAt": "2026-07-06T00:53:31.802Z",
   "year": 2026,
-  "totalTracked": 150,
+  "totalTracked": 151,
   "sources": [
     "manual",
     "committers.top",
@@ -11,1217 +11,1226 @@
     {
       "username": "farhan7reza7",
       "avatarUrl": "https://github.com/farhan7reza7.png?size=80",
-      "totalContributions": 489781,
+      "totalContributions": 489704,
       "weeklyChange": 0,
-      "currentStreak": 15,
+      "currentStreak": 23,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:14.058Z"
+      "lastUpdated": "2026-07-06T00:50:45.263Z"
     },
     {
       "username": "felixonmars",
       "avatarUrl": "https://github.com/felixonmars.png?size=80",
-      "totalContributions": 310849,
-      "weeklyChange": 19739,
-      "currentStreak": 106,
+      "totalContributions": 313494,
+      "weeklyChange": 2645,
+      "currentStreak": 111,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:04.563Z"
+      "lastUpdated": "2026-07-06T00:50:34.915Z"
     },
     {
       "username": "steipete",
       "avatarUrl": "https://github.com/steipete.png?size=80",
-      "totalContributions": 256616,
-      "weeklyChange": 32250,
-      "currentStreak": 116,
+      "totalContributions": 172694,
+      "weeklyChange": 0,
+      "currentStreak": 7,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:02:49.216Z"
+      "lastUpdated": "2026-07-06T00:50:21.200Z"
     },
     {
       "username": "SufiyanShahidDev",
       "avatarUrl": "https://github.com/SufiyanShahidDev.png?size=80",
-      "totalContributions": 140541,
-      "weeklyChange": 3,
+      "totalContributions": 140552,
+      "weeklyChange": 11,
       "currentStreak": 1,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:25.528Z"
+      "lastUpdated": "2026-07-06T00:52:47.383Z"
     },
     {
       "username": "NehalAtiq-dev",
       "avatarUrl": "https://github.com/NehalAtiq-dev.png?size=80",
       "totalContributions": 108961,
-      "weeklyChange": 20,
+      "weeklyChange": 0,
       "currentStreak": 2,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:26.682Z"
+      "lastUpdated": "2026-07-06T00:52:48.626Z"
     },
     {
       "username": "bannzai",
       "avatarUrl": "https://github.com/bannzai.png?size=80",
-      "totalContributions": 98966,
+      "totalContributions": 98952,
       "weeklyChange": 0,
-      "currentStreak": 37,
+      "currentStreak": 44,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:42.601Z"
-    },
-    {
-      "username": "wizardforcel",
-      "avatarUrl": "https://github.com/wizardforcel.png?size=80",
-      "totalContributions": 73905,
-      "weeklyChange": 0,
-      "currentStreak": 65,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:05.613Z"
+      "lastUpdated": "2026-07-06T00:51:12.009Z"
     },
     {
       "username": "jverkoey",
       "avatarUrl": "https://github.com/jverkoey.png?size=80",
-      "totalContributions": 71359,
-      "weeklyChange": 1135,
-      "currentStreak": 168,
+      "totalContributions": 72770,
+      "weeklyChange": 1411,
+      "currentStreak": 175,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:02:48.349Z"
+      "lastUpdated": "2026-07-06T00:50:20.330Z"
     },
     {
-      "username": "horsicq",
-      "avatarUrl": "https://github.com/horsicq.png?size=80",
-      "totalContributions": 64895,
-      "weeklyChange": 0,
-      "currentStreak": 365,
+      "username": "LucasMcKenzi2",
+      "avatarUrl": "https://github.com/LucasMcKenzi2.png?size=80",
+      "totalContributions": 66531,
+      "weeklyChange": 2,
+      "currentStreak": 1,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:21.015Z"
+      "lastUpdated": "2026-07-06T00:51:37.013Z"
     },
     {
       "username": "yegor256",
       "avatarUrl": "https://github.com/yegor256.png?size=80",
-      "totalContributions": 60205,
+      "totalContributions": 60104,
       "weeklyChange": 0,
       "currentStreak": 366,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:09.593Z"
+      "lastUpdated": "2026-07-06T00:50:38.669Z"
     },
     {
       "username": "arhammaqsood-dev",
       "avatarUrl": "https://github.com/arhammaqsood-dev.png?size=80",
-      "totalContributions": 54059,
-      "weeklyChange": 11,
+      "totalContributions": 54068,
+      "weeklyChange": 9,
       "currentStreak": 2,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:28.010Z"
+      "lastUpdated": "2026-07-06T00:52:49.513Z"
     },
     {
       "username": "rgbkrk",
       "avatarUrl": "https://github.com/rgbkrk.png?size=80",
-      "totalContributions": 49001,
+      "totalContributions": 48529,
       "weeklyChange": 0,
-      "currentStreak": 366,
+      "currentStreak": 365,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:02:51.734Z"
+      "lastUpdated": "2026-07-06T00:50:24.527Z"
     },
     {
-      "username": "larsxschneider",
-      "avatarUrl": "https://github.com/larsxschneider.png?size=80",
-      "totalContributions": 41945,
-      "weeklyChange": 12,
-      "currentStreak": 3,
+      "username": "seanpm2001",
+      "avatarUrl": "https://github.com/seanpm2001.png?size=80",
+      "totalContributions": 47769,
+      "weeklyChange": 23,
+      "currentStreak": 365,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:22.331Z"
+      "lastUpdated": "2026-07-06T00:50:32.665Z"
     },
     {
       "username": "kim-em",
       "avatarUrl": "https://github.com/kim-em.png?size=80",
-      "totalContributions": 41831,
-      "weeklyChange": 1520,
-      "currentStreak": 158,
+      "totalContributions": 42742,
+      "weeklyChange": 911,
+      "currentStreak": 165,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:13.158Z"
+      "lastUpdated": "2026-07-06T00:51:44.546Z"
+    },
+    {
+      "username": "JackWhitmore",
+      "avatarUrl": "https://github.com/JackWhitmore.png?size=80",
+      "totalContributions": 41541,
+      "weeklyChange": 0,
+      "currentStreak": 2,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:51:38.027Z"
     },
     {
       "username": "pethers",
       "avatarUrl": "https://github.com/pethers.png?size=80",
-      "totalContributions": 37975,
-      "weeklyChange": 256,
-      "currentStreak": 254,
+      "totalContributions": 38232,
+      "weeklyChange": 257,
+      "currentStreak": 259,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:46.675Z"
-    },
-    {
-      "username": "Goldziher",
-      "avatarUrl": "https://github.com/Goldziher.png?size=80",
-      "totalContributions": 35199,
-      "weeklyChange": 0,
-      "currentStreak": 295,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:26.233Z"
-    },
-    {
-      "username": "umerfareeddev",
-      "avatarUrl": "https://github.com/umerfareeddev.png?size=80",
-      "totalContributions": 35140,
-      "weeklyChange": 1,
-      "currentStreak": 1,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:28.900Z"
+      "lastUpdated": "2026-07-06T00:52:12.739Z"
     },
     {
       "username": "alexey-milovidov",
       "avatarUrl": "https://github.com/alexey-milovidov.png?size=80",
-      "totalContributions": 34981,
-      "weeklyChange": 1498,
-      "currentStreak": 68,
+      "totalContributions": 37490,
+      "weeklyChange": 2509,
+      "currentStreak": 75,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:42.443Z"
+      "lastUpdated": "2026-07-06T00:52:09.389Z"
     },
     {
-      "username": "Jason2866",
-      "avatarUrl": "https://github.com/Jason2866.png?size=80",
-      "totalContributions": 29340,
-      "weeklyChange": 631,
-      "currentStreak": 1,
+      "username": "umerfareeddev",
+      "avatarUrl": "https://github.com/umerfareeddev.png?size=80",
+      "totalContributions": 35147,
+      "weeklyChange": 7,
+      "currentStreak": 3,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:23.866Z"
-    },
-    {
-      "username": "ecroxchain",
-      "avatarUrl": "https://github.com/ecroxchain.png?size=80",
-      "totalContributions": 28848,
-      "weeklyChange": 0,
-      "currentStreak": 17,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:18.962Z"
-    },
-    {
-      "username": "code-yeongyu",
-      "avatarUrl": "https://github.com/code-yeongyu.png?size=80",
-      "totalContributions": 28823,
-      "weeklyChange": 658,
-      "currentStreak": 106,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:20.644Z"
+      "lastUpdated": "2026-07-06T00:52:50.666Z"
     },
     {
       "username": "fasterthanlime",
       "avatarUrl": "https://github.com/fasterthanlime.png?size=80",
-      "totalContributions": 28787,
-      "weeklyChange": 507,
-      "currentStreak": 242,
+      "totalContributions": 29808,
+      "weeklyChange": 1021,
+      "currentStreak": 249,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:53.359Z"
-    },
-    {
-      "username": "Awan",
-      "avatarUrl": "https://github.com/Awan.png?size=80",
-      "totalContributions": 28095,
-      "weeklyChange": 4,
-      "currentStreak": 1,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:29.983Z"
-    },
-    {
-      "username": "RamiKrispin",
-      "avatarUrl": "https://github.com/RamiKrispin.png?size=80",
-      "totalContributions": 27803,
-      "weeklyChange": 314,
-      "currentStreak": 366,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:03.099Z"
+      "lastUpdated": "2026-07-06T00:51:23.450Z"
     },
     {
       "username": "MagicalTux",
       "avatarUrl": "https://github.com/MagicalTux.png?size=80",
-      "totalContributions": 27165,
-      "weeklyChange": 2402,
-      "currentStreak": 61,
+      "totalContributions": 29806,
+      "weeklyChange": 2641,
+      "currentStreak": 68,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:44.469Z"
+      "lastUpdated": "2026-07-06T00:51:13.695Z"
+    },
+    {
+      "username": "code-yeongyu",
+      "avatarUrl": "https://github.com/code-yeongyu.png?size=80",
+      "totalContributions": 29383,
+      "weeklyChange": 560,
+      "currentStreak": 113,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:51:48.532Z"
+    },
+    {
+      "username": "Awan",
+      "avatarUrl": "https://github.com/Awan.png?size=80",
+      "totalContributions": 28096,
+      "weeklyChange": 1,
+      "currentStreak": 1,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:52:52.079Z"
+    },
+    {
+      "username": "brianchandotcom",
+      "avatarUrl": "https://github.com/brianchandotcom.png?size=80",
+      "totalContributions": 27111,
+      "weeklyChange": 76,
+      "currentStreak": 41,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:50:33.604Z"
     },
     {
       "username": "samoht",
       "avatarUrl": "https://github.com/samoht.png?size=80",
-      "totalContributions": 27045,
-      "weeklyChange": 942,
-      "currentStreak": 62,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:57.814Z"
-    },
-    {
-      "username": "zhaoolee",
-      "avatarUrl": "https://github.com/zhaoolee.png?size=80",
-      "totalContributions": 26904,
+      "totalContributions": 27007,
       "weeklyChange": 0,
-      "currentStreak": 366,
-      "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:32.162Z"
+      "currentStreak": 2,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:51:27.760Z"
     },
     {
       "username": "rogeralsing",
       "avatarUrl": "https://github.com/rogeralsing.png?size=80",
-      "totalContributions": 26678,
-      "weeklyChange": 56,
+      "totalContributions": 26718,
+      "weeklyChange": 40,
       "currentStreak": 1,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:49.623Z"
+      "lastUpdated": "2026-07-06T00:52:16.798Z"
+    },
+    {
+      "username": "zhaoolee",
+      "avatarUrl": "https://github.com/zhaoolee.png?size=80",
+      "totalContributions": 26422,
+      "weeklyChange": 0,
+      "currentStreak": 365,
+      "source": "manual",
+      "lastUpdated": "2026-07-06T00:49:59.142Z"
+    },
+    {
+      "username": "ecroxchain",
+      "avatarUrl": "https://github.com/ecroxchain.png?size=80",
+      "totalContributions": 25607,
+      "weeklyChange": 0,
+      "currentStreak": 17,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:52:40.534Z"
     },
     {
       "username": "oferchen",
       "avatarUrl": "https://github.com/oferchen.png?size=80",
-      "totalContributions": 24705,
-      "weeklyChange": 235,
-      "currentStreak": 20,
+      "totalContributions": 24959,
+      "weeklyChange": 254,
+      "currentStreak": 6,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:08.874Z"
+      "lastUpdated": "2026-07-06T00:52:33.851Z"
     },
     {
       "username": "xiaolai",
       "avatarUrl": "https://github.com/xiaolai.png?size=80",
-      "totalContributions": 24163,
-      "weeklyChange": 164,
-      "currentStreak": 254,
+      "totalContributions": 24449,
+      "weeklyChange": 286,
+      "currentStreak": 261,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:11.091Z"
-    },
-    {
-      "username": "Charles-Chrismann",
-      "avatarUrl": "https://github.com/Charles-Chrismann.png?size=80",
-      "totalContributions": 23997,
-      "weeklyChange": 0,
-      "currentStreak": 366,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:51.234Z"
+      "lastUpdated": "2026-07-06T00:50:40.183Z"
     },
     {
       "username": "Alex-Unnippillil",
       "avatarUrl": "https://github.com/Alex-Unnippillil.png?size=80",
-      "totalContributions": 23774,
+      "totalContributions": 23773,
       "weeklyChange": 0,
       "currentStreak": 1,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:33.859Z"
+      "lastUpdated": "2026-07-06T00:51:03.782Z"
     },
     {
       "username": "rsasaki0109",
       "avatarUrl": "https://github.com/rsasaki0109.png?size=80",
-      "totalContributions": 23431,
-      "weeklyChange": 45,
-      "currentStreak": 99,
+      "totalContributions": 23652,
+      "weeklyChange": 221,
+      "currentStreak": 6,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:46.066Z"
+      "lastUpdated": "2026-07-06T00:51:15.400Z"
+    },
+    {
+      "username": "Charles-Chrismann",
+      "avatarUrl": "https://github.com/Charles-Chrismann.png?size=80",
+      "totalContributions": 23531,
+      "weeklyChange": 0,
+      "currentStreak": 366,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:51:21.008Z"
     },
     {
       "username": "SimonCropp",
       "avatarUrl": "https://github.com/SimonCropp.png?size=80",
-      "totalContributions": 23092,
-      "weeklyChange": 117,
-      "currentStreak": 6,
+      "totalContributions": 23404,
+      "weeklyChange": 312,
+      "currentStreak": 13,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:07.644Z"
+      "lastUpdated": "2026-07-06T00:51:39.913Z"
     },
     {
       "username": "FabianaCampanari",
       "avatarUrl": "https://github.com/FabianaCampanari.png?size=80",
-      "totalContributions": 22299,
-      "weeklyChange": 0,
-      "currentStreak": 11,
+      "totalContributions": 22331,
+      "weeklyChange": 32,
+      "currentStreak": 18,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:59.910Z"
+      "lastUpdated": "2026-07-06T00:51:29.813Z"
     },
     {
       "username": "harperreed",
       "avatarUrl": "https://github.com/harperreed.png?size=80",
-      "totalContributions": 21683,
-      "weeklyChange": 0,
+      "totalContributions": 21691,
+      "weeklyChange": 8,
       "currentStreak": 1,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:34.117Z"
+      "lastUpdated": "2026-07-06T00:50:00.799Z"
     },
     {
       "username": "mizchi",
       "avatarUrl": "https://github.com/mizchi.png?size=80",
-      "totalContributions": 21513,
-      "weeklyChange": 473,
-      "currentStreak": 230,
+      "totalContributions": 21646,
+      "weeklyChange": 133,
+      "currentStreak": 237,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:50.160Z"
-    },
-    {
-      "username": "sthagen",
-      "avatarUrl": "https://github.com/sthagen.png?size=80",
-      "totalContributions": 21421,
-      "weeklyChange": 0,
-      "currentStreak": 2,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:55.786Z"
+      "lastUpdated": "2026-07-06T00:51:19.798Z"
     },
     {
       "username": "autonome",
       "avatarUrl": "https://github.com/autonome.png?size=80",
-      "totalContributions": 20647,
-      "weeklyChange": 355,
+      "totalContributions": 21060,
+      "weeklyChange": 413,
       "currentStreak": 366,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:36.787Z"
-    },
-    {
-      "username": "yuiseki",
-      "avatarUrl": "https://github.com/yuiseki.png?size=80",
-      "totalContributions": 20425,
-      "weeklyChange": 0,
-      "currentStreak": 16,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:48.421Z"
-    },
-    {
-      "username": "mig1023",
-      "avatarUrl": "https://github.com/mig1023.png?size=80",
-      "totalContributions": 20055,
-      "weeklyChange": 0,
-      "currentStreak": 365,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:30.036Z"
-    },
-    {
-      "username": "atgreen",
-      "avatarUrl": "https://github.com/atgreen.png?size=80",
-      "totalContributions": 19632,
-      "weeklyChange": 507,
-      "currentStreak": 12,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:31.004Z"
-    },
-    {
-      "username": "ThaTiemsz",
-      "avatarUrl": "https://github.com/ThaTiemsz.png?size=80",
-      "totalContributions": 19217,
-      "weeklyChange": 0,
-      "currentStreak": 7,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:37.969Z"
-    },
-    {
-      "username": "hahwul",
-      "avatarUrl": "https://github.com/hahwul.png?size=80",
-      "totalContributions": 19061,
-      "weeklyChange": 385,
-      "currentStreak": 366,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:26.540Z"
-    },
-    {
-      "username": "chrisguttandin",
-      "avatarUrl": "https://github.com/chrisguttandin.png?size=80",
-      "totalContributions": 19010,
-      "weeklyChange": 422,
-      "currentStreak": 13,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:27.418Z"
-    },
-    {
-      "username": "lupyuen",
-      "avatarUrl": "https://github.com/lupyuen.png?size=80",
-      "totalContributions": 18813,
-      "weeklyChange": 0,
-      "currentStreak": 1,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:20.125Z"
-    },
-    {
-      "username": "fabaff",
-      "avatarUrl": "https://github.com/fabaff.png?size=80",
-      "totalContributions": 18578,
-      "weeklyChange": 162,
-      "currentStreak": 333,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:58.703Z"
-    },
-    {
-      "username": "Niek",
-      "avatarUrl": "https://github.com/Niek.png?size=80",
-      "totalContributions": 18018,
-      "weeklyChange": 0,
-      "currentStreak": 366,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:39.239Z"
+      "lastUpdated": "2026-07-06T00:52:03.677Z"
     },
     {
       "username": "SAPTARSHI-coder",
       "avatarUrl": "https://github.com/SAPTARSHI-coder.png?size=80",
-      "totalContributions": 16056,
-      "weeklyChange": 6646,
-      "currentStreak": 33,
+      "totalContributions": 20764,
+      "weeklyChange": 4708,
+      "currentStreak": 40,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:15.478Z"
+      "lastUpdated": "2026-07-06T00:50:46.491Z"
     },
     {
-      "username": "timkpaine",
-      "avatarUrl": "https://github.com/timkpaine.png?size=80",
-      "totalContributions": 15629,
-      "weeklyChange": 489,
+      "username": "yuiseki",
+      "avatarUrl": "https://github.com/yuiseki.png?size=80",
+      "totalContributions": 20424,
+      "weeklyChange": 0,
+      "currentStreak": 23,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:51:17.584Z"
+    },
+    {
+      "username": "sthagen",
+      "avatarUrl": "https://github.com/sthagen.png?size=80",
+      "totalContributions": 19984,
+      "weeklyChange": 0,
+      "currentStreak": 1,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:52:21.804Z"
+    },
+    {
+      "username": "mig1023",
+      "avatarUrl": "https://github.com/mig1023.png?size=80",
+      "totalContributions": 19931,
+      "weeklyChange": 0,
       "currentStreak": 365,
-      "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:39.972Z"
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:51:57.587Z"
     },
     {
-      "username": "spMohanty",
-      "avatarUrl": "https://github.com/spMohanty.png?size=80",
-      "totalContributions": 15246,
-      "weeklyChange": 333,
-      "currentStreak": 7,
+      "username": "atgreen",
+      "avatarUrl": "https://github.com/atgreen.png?size=80",
+      "totalContributions": 19530,
+      "weeklyChange": 0,
+      "currentStreak": 17,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:04.259Z"
+      "lastUpdated": "2026-07-06T00:51:01.021Z"
+    },
+    {
+      "username": "hahwul",
+      "avatarUrl": "https://github.com/hahwul.png?size=80",
+      "totalContributions": 19341,
+      "weeklyChange": 280,
+      "currentStreak": 366,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:51:54.220Z"
+    },
+    {
+      "username": "ThaTiemsz",
+      "avatarUrl": "https://github.com/ThaTiemsz.png?size=80",
+      "totalContributions": 19234,
+      "weeklyChange": 17,
+      "currentStreak": 13,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:52:04.664Z"
+    },
+    {
+      "username": "fabaff",
+      "avatarUrl": "https://github.com/fabaff.png?size=80",
+      "totalContributions": 18475,
+      "weeklyChange": 0,
+      "currentStreak": 340,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:52:24.496Z"
+    },
+    {
+      "username": "lupyuen",
+      "avatarUrl": "https://github.com/lupyuen.png?size=80",
+      "totalContributions": 18171,
+      "weeklyChange": 0,
+      "currentStreak": 2,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:52:41.806Z"
+    },
+    {
+      "username": "Niek",
+      "avatarUrl": "https://github.com/Niek.png?size=80",
+      "totalContributions": 17871,
+      "weeklyChange": 0,
+      "currentStreak": 365,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:52:05.983Z"
+    },
+    {
+      "username": "alexeygrigorev",
+      "avatarUrl": "https://github.com/alexeygrigorev.png?size=80",
+      "totalContributions": 17126,
+      "weeklyChange": 2217,
+      "currentStreak": 162,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:50:51.786Z"
+    },
+    {
+      "username": "changkun",
+      "avatarUrl": "https://github.com/changkun.png?size=80",
+      "totalContributions": 16277,
+      "weeklyChange": 652,
+      "currentStreak": 53,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:50:53.886Z"
     },
     {
       "username": "leecalcote",
       "avatarUrl": "https://github.com/leecalcote.png?size=80",
-      "totalContributions": 15093,
-      "weeklyChange": 1508,
-      "currentStreak": 365,
+      "totalContributions": 15599,
+      "weeklyChange": 506,
+      "currentStreak": 366,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:42.231Z"
+      "lastUpdated": "2026-07-06T00:50:15.096Z"
     },
     {
-      "username": "chernistry",
-      "avatarUrl": "https://github.com/chernistry.png?size=80",
-      "totalContributions": 14919,
+      "username": "timkpaine",
+      "avatarUrl": "https://github.com/timkpaine.png?size=80",
+      "totalContributions": 15574,
       "weeklyChange": 0,
-      "currentStreak": 2,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:14.357Z"
+      "currentStreak": 365,
+      "source": "manual",
+      "lastUpdated": "2026-07-06T00:50:11.739Z"
     },
     {
       "username": "basnijholt",
       "avatarUrl": "https://github.com/basnijholt.png?size=80",
-      "totalContributions": 14836,
-      "weeklyChange": 0,
-      "currentStreak": 253,
+      "totalContributions": 15331,
+      "weeklyChange": 495,
+      "currentStreak": 260,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:37.752Z"
+      "lastUpdated": "2026-07-06T00:50:06.108Z"
     },
     {
-      "username": "chenrui333",
-      "avatarUrl": "https://github.com/chenrui333.png?size=80",
-      "totalContributions": 14478,
-      "weeklyChange": 51,
-      "currentStreak": 5,
-      "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:31.157Z"
+      "username": "spMohanty",
+      "avatarUrl": "https://github.com/spMohanty.png?size=80",
+      "totalContributions": 15233,
+      "weeklyChange": 0,
+      "currentStreak": 11,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:52:29.623Z"
+    },
+    {
+      "username": "chernistry",
+      "avatarUrl": "https://github.com/chernistry.png?size=80",
+      "totalContributions": 15073,
+      "weeklyChange": 154,
+      "currentStreak": 2,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:52:37.929Z"
     },
     {
       "username": "Yeachan-Heo",
       "avatarUrl": "https://github.com/Yeachan-Heo.png?size=80",
-      "totalContributions": 14339,
-      "weeklyChange": 542,
-      "currentStreak": 163,
+      "totalContributions": 14854,
+      "weeklyChange": 515,
+      "currentStreak": 170,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:29.093Z"
+      "lastUpdated": "2026-07-06T00:51:56.722Z"
     },
     {
       "username": "vitormattos",
       "avatarUrl": "https://github.com/vitormattos.png?size=80",
-      "totalContributions": 14222,
-      "weeklyChange": 41,
-      "currentStreak": 7,
+      "totalContributions": 14562,
+      "weeklyChange": 340,
+      "currentStreak": 14,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:02.375Z"
+      "lastUpdated": "2026-07-06T00:51:32.117Z"
+    },
+    {
+      "username": "chenrui333",
+      "avatarUrl": "https://github.com/chenrui333.png?size=80",
+      "totalContributions": 14386,
+      "weeklyChange": 0,
+      "currentStreak": 1,
+      "source": "manual",
+      "lastUpdated": "2026-07-06T00:49:57.652Z"
     },
     {
       "username": "nicolas-grekas",
       "avatarUrl": "https://github.com/nicolas-grekas.png?size=80",
-      "totalContributions": 13779,
-      "weeklyChange": 0,
+      "totalContributions": 13800,
+      "weeklyChange": 21,
       "currentStreak": 2,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:55.387Z"
-    },
-    {
-      "username": "benswift",
-      "avatarUrl": "https://github.com/benswift.png?size=80",
-      "totalContributions": 13633,
-      "weeklyChange": 530,
-      "currentStreak": 113,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:16.735Z"
+      "lastUpdated": "2026-07-06T00:51:25.445Z"
     },
     {
       "username": "dahlia",
       "avatarUrl": "https://github.com/dahlia.png?size=80",
-      "totalContributions": 13158,
-      "weeklyChange": 423,
-      "currentStreak": 142,
+      "totalContributions": 13610,
+      "weeklyChange": 452,
+      "currentStreak": 150,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:23.972Z"
+      "lastUpdated": "2026-07-06T00:51:51.944Z"
     },
     {
       "username": "JonnyBurger",
       "avatarUrl": "https://github.com/JonnyBurger.png?size=80",
-      "totalContributions": 13032,
-      "weeklyChange": 56,
-      "currentStreak": 43,
+      "totalContributions": 13002,
+      "weeklyChange": 0,
+      "currentStreak": 47,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:02.465Z"
-    },
-    {
-      "username": "jeffersongoncalves",
-      "avatarUrl": "https://github.com/jeffersongoncalves.png?size=80",
-      "totalContributions": 12985,
-      "weeklyChange": 347,
-      "currentStreak": 135,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:03.975Z"
+      "lastUpdated": "2026-07-06T00:52:27.920Z"
     },
     {
       "username": "delano",
       "avatarUrl": "https://github.com/delano.png?size=80",
-      "totalContributions": 12611,
-      "weeklyChange": 559,
-      "currentStreak": 11,
+      "totalContributions": 12903,
+      "weeklyChange": 292,
+      "currentStreak": 18,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:35.636Z"
+      "lastUpdated": "2026-07-06T00:51:05.971Z"
     },
     {
-      "username": "veltzer",
-      "avatarUrl": "https://github.com/veltzer.png?size=80",
-      "totalContributions": 12163,
+      "username": "jeffersongoncalves",
+      "avatarUrl": "https://github.com/jeffersongoncalves.png?size=80",
+      "totalContributions": 12778,
       "weeklyChange": 0,
-      "currentStreak": 1,
+      "currentStreak": 141,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:12.529Z"
-    },
-    {
-      "username": "arthurzam",
-      "avatarUrl": "https://github.com/arthurzam.png?size=80",
-      "totalContributions": 12140,
-      "weeklyChange": 0,
-      "currentStreak": 12,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:10.397Z"
-    },
-    {
-      "username": "AyanCoders",
-      "avatarUrl": "https://github.com/AyanCoders.png?size=80",
-      "totalContributions": 11977,
-      "weeklyChange": 0,
-      "currentStreak": 2,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:00.831Z"
+      "lastUpdated": "2026-07-06T00:51:34.732Z"
     },
     {
       "username": "mcnamee",
       "avatarUrl": "https://github.com/mcnamee.png?size=80",
-      "totalContributions": 11691,
-      "weeklyChange": 225,
-      "currentStreak": 196,
+      "totalContributions": 11951,
+      "weeklyChange": 260,
+      "currentStreak": 202,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:14.099Z"
-    },
-    {
-      "username": "neobuddy89",
-      "avatarUrl": "https://github.com/neobuddy89.png?size=80",
-      "totalContributions": 11658,
-      "weeklyChange": 261,
-      "currentStreak": 4,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:17.211Z"
+      "lastUpdated": "2026-07-06T00:51:45.412Z"
     },
     {
       "username": "lzwjava",
       "avatarUrl": "https://github.com/lzwjava.png?size=80",
-      "totalContributions": 11489,
-      "weeklyChange": 493,
-      "currentStreak": 75,
+      "totalContributions": 11748,
+      "weeklyChange": 259,
+      "currentStreak": 82,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:12.330Z"
+      "lastUpdated": "2026-07-06T00:50:41.953Z"
     },
     {
-      "username": "sluongng",
-      "avatarUrl": "https://github.com/sluongng.png?size=80",
-      "totalContributions": 11489,
-      "weeklyChange": 25,
-      "currentStreak": 1,
+      "username": "neobuddy89",
+      "avatarUrl": "https://github.com/neobuddy89.png?size=80",
+      "totalContributions": 11628,
+      "weeklyChange": 0,
+      "currentStreak": 10,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:43.843Z"
+      "lastUpdated": "2026-07-06T00:50:48.189Z"
+    },
+    {
+      "username": "rahulmutt",
+      "avatarUrl": "https://github.com/rahulmutt.png?size=80",
+      "totalContributions": 11620,
+      "weeklyChange": 790,
+      "currentStreak": 24,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:52:10.309Z"
+    },
+    {
+      "username": "AyanCoders",
+      "avatarUrl": "https://github.com/AyanCoders.png?size=80",
+      "totalContributions": 11505,
+      "weeklyChange": 0,
+      "currentStreak": 2,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:51:33.008Z"
     },
     {
       "username": "PozzettiAndrea",
       "avatarUrl": "https://github.com/PozzettiAndrea.png?size=80",
-      "totalContributions": 11463,
-      "weeklyChange": 15,
-      "currentStreak": 3,
+      "totalContributions": 11470,
+      "weeklyChange": 7,
+      "currentStreak": 2,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:00.290Z"
-    },
-    {
-      "username": "JAICHANGPARK",
-      "avatarUrl": "https://github.com/JAICHANGPARK.png?size=80",
-      "totalContributions": 11277,
-      "weeklyChange": 0,
-      "currentStreak": 365,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:21.875Z"
-    },
-    {
-      "username": "kerbelp",
-      "avatarUrl": "https://github.com/kerbelp.png?size=80",
-      "totalContributions": 11160,
-      "weeklyChange": 268,
-      "currentStreak": 49,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:17.966Z"
+      "lastUpdated": "2026-07-06T00:52:25.544Z"
     },
     {
       "username": "Ovid",
       "avatarUrl": "https://github.com/Ovid.png?size=80",
-      "totalContributions": 10988,
-      "weeklyChange": 297,
-      "currentStreak": 37,
+      "totalContributions": 11313,
+      "weeklyChange": 325,
+      "currentStreak": 44,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:56.503Z"
+      "lastUpdated": "2026-07-06T00:51:26.560Z"
     },
     {
-      "username": "andrey-helldar",
-      "avatarUrl": "https://github.com/andrey-helldar.png?size=80",
-      "totalContributions": 10796,
+      "username": "arthurzam",
+      "avatarUrl": "https://github.com/arthurzam.png?size=80",
+      "totalContributions": 11209,
       "weeklyChange": 0,
-      "currentStreak": 2,
+      "currentStreak": 5,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:32.655Z"
+      "lastUpdated": "2026-07-06T00:52:34.886Z"
     },
     {
       "username": "mxcl",
       "avatarUrl": "https://github.com/mxcl.png?size=80",
-      "totalContributions": 10685,
-      "weeklyChange": 603,
-      "currentStreak": 60,
+      "totalContributions": 11200,
+      "weeklyChange": 515,
+      "currentStreak": 1,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:20.348Z"
+      "lastUpdated": "2026-07-06T00:49:47.821Z"
+    },
+    {
+      "username": "JAICHANGPARK",
+      "avatarUrl": "https://github.com/JAICHANGPARK.png?size=80",
+      "totalContributions": 11146,
+      "weeklyChange": 0,
+      "currentStreak": 365,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:51:49.900Z"
     },
     {
       "username": "rich-iannone",
       "avatarUrl": "https://github.com/rich-iannone.png?size=80",
-      "totalContributions": 10089,
-      "weeklyChange": 53,
-      "currentStreak": 168,
+      "totalContributions": 11019,
+      "weeklyChange": 930,
+      "currentStreak": 175,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:38.529Z"
+      "lastUpdated": "2026-07-06T00:51:08.337Z"
+    },
+    {
+      "username": "andrey-helldar",
+      "avatarUrl": "https://github.com/andrey-helldar.png?size=80",
+      "totalContributions": 10768,
+      "weeklyChange": 0,
+      "currentStreak": 4,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:51:59.568Z"
+    },
+    {
+      "username": "JokerJohn",
+      "avatarUrl": "https://github.com/JokerJohn.png?size=80",
+      "totalContributions": 10452,
+      "weeklyChange": 582,
+      "currentStreak": 113,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:50:42.878Z"
     },
     {
       "username": "cezaraugusto",
       "avatarUrl": "https://github.com/cezaraugusto.png?size=80",
-      "totalContributions": 9801,
-      "weeklyChange": 127,
-      "currentStreak": 8,
+      "totalContributions": 10341,
+      "weeklyChange": 540,
+      "currentStreak": 16,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:05.466Z"
+      "lastUpdated": "2026-07-06T00:51:35.986Z"
     },
     {
       "username": "jolars",
       "avatarUrl": "https://github.com/jolars.png?size=80",
-      "totalContributions": 9685,
-      "weeklyChange": 317,
-      "currentStreak": 35,
+      "totalContributions": 10085,
+      "weeklyChange": 400,
+      "currentStreak": 42,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:50.853Z"
+      "lastUpdated": "2026-07-06T00:52:13.935Z"
     },
     {
       "username": "thestinger",
       "avatarUrl": "https://github.com/thestinger.png?size=80",
-      "totalContributions": 9285,
-      "weeklyChange": 41,
-      "currentStreak": 45,
+      "totalContributions": 9365,
+      "weeklyChange": 80,
+      "currentStreak": 52,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:37.083Z"
+      "lastUpdated": "2026-07-06T00:51:07.069Z"
     },
     {
-      "username": "djouallah",
-      "avatarUrl": "https://github.com/djouallah.png?size=80",
-      "totalContributions": 8827,
-      "weeklyChange": 358,
-      "currentStreak": 121,
+      "username": "veltzer",
+      "avatarUrl": "https://github.com/veltzer.png?size=80",
+      "totalContributions": 9225,
+      "weeklyChange": 0,
+      "currentStreak": 2,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:15.201Z"
+      "lastUpdated": "2026-07-06T00:52:36.171Z"
     },
     {
       "username": "ZhongRuoyu",
       "avatarUrl": "https://github.com/ZhongRuoyu.png?size=80",
-      "totalContributions": 8495,
-      "weeklyChange": 14,
-      "currentStreak": 79,
+      "totalContributions": 8508,
+      "weeklyChange": 13,
+      "currentStreak": 84,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:21.974Z"
+      "lastUpdated": "2026-07-06T00:52:43.612Z"
+    },
+    {
+      "username": "schacon",
+      "avatarUrl": "https://github.com/schacon.png?size=80",
+      "totalContributions": 8323,
+      "weeklyChange": 11,
+      "currentStreak": 1,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:50:55.317Z"
     },
     {
       "username": "kentcdodds",
       "avatarUrl": "https://github.com/kentcdodds.png?size=80",
-      "totalContributions": 8193,
-      "weeklyChange": 87,
-      "currentStreak": 21,
+      "totalContributions": 8290,
+      "weeklyChange": 97,
+      "currentStreak": 28,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:01:56.367Z"
+      "lastUpdated": "2026-07-06T00:49:26.980Z"
     },
     {
       "username": "nilbuild",
       "avatarUrl": "https://github.com/nilbuild.png?size=80",
-      "totalContributions": 7892,
-      "weeklyChange": 6,
-      "currentStreak": 28,
+      "totalContributions": 8050,
+      "weeklyChange": 158,
+      "currentStreak": 36,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:46.662Z"
+      "lastUpdated": "2026-07-06T00:53:06.464Z"
     },
     {
-      "username": "PEZ",
-      "avatarUrl": "https://github.com/PEZ.png?size=80",
-      "totalContributions": 7629,
-      "weeklyChange": 0,
-      "currentStreak": 14,
+      "username": "marinasundstrom",
+      "avatarUrl": "https://github.com/marinasundstrom.png?size=80",
+      "totalContributions": 8025,
+      "weeklyChange": 259,
+      "currentStreak": 37,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:53.756Z"
+      "lastUpdated": "2026-07-06T00:52:19.968Z"
+    },
+    {
+      "username": "szabgab",
+      "avatarUrl": "https://github.com/szabgab.png?size=80",
+      "totalContributions": 7765,
+      "weeklyChange": 140,
+      "currentStreak": 1,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:52:39.470Z"
     },
     {
       "username": "shreyaschavhan",
       "avatarUrl": "https://github.com/shreyaschavhan.png?size=80",
-      "totalContributions": 7572,
-      "weeklyChange": 67,
-      "currentStreak": 288,
+      "totalContributions": 7643,
+      "weeklyChange": 71,
+      "currentStreak": 296,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:18.407Z"
-    },
-    {
-      "username": "avs-abhishek123",
-      "avatarUrl": "https://github.com/avs-abhishek123.png?size=80",
-      "totalContributions": 7178,
-      "weeklyChange": 0,
-      "currentStreak": 1,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:03:19.402Z"
-    },
-    {
-      "username": "chadlwilson",
-      "avatarUrl": "https://github.com/chadlwilson.png?size=80",
-      "totalContributions": 7061,
-      "weeklyChange": 39,
-      "currentStreak": 1,
-      "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:23.407Z"
+      "lastUpdated": "2026-07-06T00:50:49.250Z"
     },
     {
       "username": "mitchellh",
       "avatarUrl": "https://github.com/mitchellh.png?size=80",
-      "totalContributions": 7028,
-      "weeklyChange": 17,
+      "totalContributions": 7091,
+      "weeklyChange": 63,
       "currentStreak": 365,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:15.932Z"
+      "lastUpdated": "2026-07-06T00:49:42.970Z"
     },
     {
-      "username": "taylorotwell",
-      "avatarUrl": "https://github.com/taylorotwell.png?size=80",
-      "totalContributions": 6693,
-      "weeklyChange": 767,
-      "currentStreak": 1,
-      "source": "github-api",
-      "lastUpdated": "2026-06-29T01:06:02.938Z"
-    },
-    {
-      "username": "richelbilderbeek",
-      "avatarUrl": "https://github.com/richelbilderbeek.png?size=80",
-      "totalContributions": 6592,
-      "weeklyChange": 22,
-      "currentStreak": 10,
+      "username": "chadlwilson",
+      "avatarUrl": "https://github.com/chadlwilson.png?size=80",
+      "totalContributions": 7084,
+      "weeklyChange": 23,
+      "currentStreak": 8,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:52.513Z"
+      "lastUpdated": "2026-07-06T00:52:45.159Z"
+    },
+    {
+      "username": "avs-abhishek123",
+      "avatarUrl": "https://github.com/avs-abhishek123.png?size=80",
+      "totalContributions": 6936,
+      "weeklyChange": 0,
+      "currentStreak": 1,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:50:50.336Z"
     },
     {
       "username": "ankane",
       "avatarUrl": "https://github.com/ankane.png?size=80",
-      "totalContributions": 6497,
-      "weeklyChange": 18,
-      "currentStreak": 12,
+      "totalContributions": 6737,
+      "weeklyChange": 240,
+      "currentStreak": 8,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:35.443Z"
+      "lastUpdated": "2026-07-06T00:50:03.776Z"
+    },
+    {
+      "username": "taylorotwell",
+      "avatarUrl": "https://github.com/taylorotwell.png?size=80",
+      "totalContributions": 6722,
+      "weeklyChange": 29,
+      "currentStreak": 7,
+      "source": "github-api",
+      "lastUpdated": "2026-07-06T00:53:20.424Z"
+    },
+    {
+      "username": "richelbilderbeek",
+      "avatarUrl": "https://github.com/richelbilderbeek.png?size=80",
+      "totalContributions": 6528,
+      "weeklyChange": 0,
+      "currentStreak": 7,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:52:18.446Z"
     },
     {
       "username": "Fayzimurod",
       "avatarUrl": "https://github.com/Fayzimurod.png?size=80",
-      "totalContributions": 6222,
+      "totalContributions": 6225,
       "weeklyChange": 3,
       "currentStreak": 2,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:33.529Z"
+      "lastUpdated": "2026-07-06T00:52:00.442Z"
     },
     {
       "username": "Dvurechensky",
       "avatarUrl": "https://github.com/Dvurechensky.png?size=80",
-      "totalContributions": 5988,
-      "weeklyChange": 186,
-      "currentStreak": 70,
+      "totalContributions": 6183,
+      "weeklyChange": 195,
+      "currentStreak": 77,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:34.839Z"
+      "lastUpdated": "2026-07-06T00:52:01.716Z"
     },
     {
       "username": "midudev",
       "avatarUrl": "https://github.com/midudev.png?size=80",
-      "totalContributions": 5762,
-      "weeklyChange": 105,
-      "currentStreak": 7,
+      "totalContributions": 5843,
+      "weeklyChange": 81,
+      "currentStreak": 15,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:52.572Z"
+      "lastUpdated": "2026-07-06T00:53:10.871Z"
     },
     {
       "username": "damithc",
       "avatarUrl": "https://github.com/damithc.png?size=80",
-      "totalContributions": 5709,
-      "weeklyChange": 12,
-      "currentStreak": 2,
+      "totalContributions": 5830,
+      "weeklyChange": 121,
+      "currentStreak": 16,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:05:24.613Z"
+      "lastUpdated": "2026-07-06T00:52:46.502Z"
     },
     {
       "username": "StressOzz",
       "avatarUrl": "https://github.com/StressOzz.png?size=80",
-      "totalContributions": 5683,
-      "weeklyChange": 7,
-      "currentStreak": 1,
+      "totalContributions": 5784,
+      "weeklyChange": 101,
+      "currentStreak": 8,
       "source": "committers.top",
-      "lastUpdated": "2026-06-29T01:04:35.757Z"
+      "lastUpdated": "2026-07-06T00:52:02.727Z"
     },
     {
       "username": "tiangolo",
       "avatarUrl": "https://github.com/tiangolo.png?size=80",
-      "totalContributions": 5483,
-      "weeklyChange": 245,
-      "currentStreak": 15,
+      "totalContributions": 5715,
+      "weeklyChange": 232,
+      "currentStreak": 6,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:08.943Z"
+      "lastUpdated": "2026-07-06T00:49:37.439Z"
     },
     {
       "username": "jessfraz",
       "avatarUrl": "https://github.com/jessfraz.png?size=80",
-      "totalContributions": 5142,
-      "weeklyChange": 8,
-      "currentStreak": 6,
+      "totalContributions": 5145,
+      "weeklyChange": 3,
+      "currentStreak": 1,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:14.044Z"
+      "lastUpdated": "2026-07-06T00:49:40.997Z"
     },
     {
       "username": "kennethreitz",
       "avatarUrl": "https://github.com/kennethreitz.png?size=80",
-      "totalContributions": 4707,
-      "weeklyChange": 221,
-      "currentStreak": 2,
+      "totalContributions": 5025,
+      "weeklyChange": 318,
+      "currentStreak": 8,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:06:13.751Z"
+      "lastUpdated": "2026-07-06T00:53:30.405Z"
     },
     {
       "username": "JakeWharton",
       "avatarUrl": "https://github.com/JakeWharton.png?size=80",
-      "totalContributions": 4541,
-      "weeklyChange": 41,
-      "currentStreak": 6,
+      "totalContributions": 4636,
+      "weeklyChange": 95,
+      "currentStreak": 1,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:01:50.322Z"
+      "lastUpdated": "2026-07-06T00:49:23.361Z"
+    },
+    {
+      "username": "orhun",
+      "avatarUrl": "https://github.com/orhun.png?size=80",
+      "totalContributions": 4610,
+      "weeklyChange": 52,
+      "currentStreak": 365,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:50:58.127Z"
+    },
+    {
+      "username": "sebastianbergmann",
+      "avatarUrl": "https://github.com/sebastianbergmann.png?size=80",
+      "totalContributions": 4579,
+      "weeklyChange": 34,
+      "currentStreak": 8,
+      "source": "committers.top",
+      "lastUpdated": "2026-07-06T00:50:56.549Z"
     },
     {
       "username": "lucidrains",
       "avatarUrl": "https://github.com/lucidrains.png?size=80",
-      "totalContributions": 4535,
+      "totalContributions": 4505,
       "weeklyChange": 0,
-      "currentStreak": 134,
+      "currentStreak": 141,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:37.543Z"
+      "lastUpdated": "2026-07-06T00:52:58.465Z"
     },
     {
       "username": "sindresorhus",
       "avatarUrl": "https://github.com/sindresorhus.png?size=80",
-      "totalContributions": 4137,
-      "weeklyChange": 106,
-      "currentStreak": 24,
+      "totalContributions": 4299,
+      "weeklyChange": 162,
+      "currentStreak": 32,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:01:46.730Z"
+      "lastUpdated": "2026-07-06T00:49:20.849Z"
     },
     {
       "username": "developit",
       "avatarUrl": "https://github.com/developit.png?size=80",
-      "totalContributions": 3939,
-      "weeklyChange": 257,
-      "currentStreak": 13,
+      "totalContributions": 4070,
+      "weeklyChange": 131,
+      "currentStreak": 7,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:04.986Z"
+      "lastUpdated": "2026-07-06T00:49:34.655Z"
     },
     {
       "username": "antfu",
       "avatarUrl": "https://github.com/antfu.png?size=80",
-      "totalContributions": 3588,
-      "weeklyChange": 1,
-      "currentStreak": 5,
+      "totalContributions": 3535,
+      "weeklyChange": 0,
+      "currentStreak": 6,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:50.055Z"
-    },
-    {
-      "username": "torvalds",
-      "avatarUrl": "https://github.com/torvalds.png?size=80",
-      "totalContributions": 3225,
-      "weeklyChange": 45,
-      "currentStreak": 32,
-      "source": "manual",
-      "lastUpdated": "2026-06-29T01:01:44.502Z"
-    },
-    {
-      "username": "Rich-Harris",
-      "avatarUrl": "https://github.com/Rich-Harris.png?size=80",
-      "totalContributions": 2953,
-      "weeklyChange": 20,
-      "currentStreak": 1,
-      "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:06.677Z"
+      "lastUpdated": "2026-07-06T00:53:08.813Z"
     },
     {
       "username": "ThePrimeagen",
       "avatarUrl": "https://github.com/ThePrimeagen.png?size=80",
-      "totalContributions": 2897,
-      "weeklyChange": 673,
-      "currentStreak": 42,
+      "totalContributions": 3335,
+      "weeklyChange": 438,
+      "currentStreak": 49,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:01:54.687Z"
+      "lastUpdated": "2026-07-06T00:49:26.071Z"
+    },
+    {
+      "username": "torvalds",
+      "avatarUrl": "https://github.com/torvalds.png?size=80",
+      "totalContributions": 3215,
+      "weeklyChange": 0,
+      "currentStreak": 6,
+      "source": "manual",
+      "lastUpdated": "2026-07-06T00:49:19.141Z"
     },
     {
       "username": "fatih",
       "avatarUrl": "https://github.com/fatih.png?size=80",
-      "totalContributions": 2892,
-      "weeklyChange": 107,
-      "currentStreak": 23,
+      "totalContributions": 2978,
+      "weeklyChange": 86,
+      "currentStreak": 30,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:17.766Z"
-    },
-    {
-      "username": "geohot",
-      "avatarUrl": "https://github.com/geohot.png?size=80",
-      "totalContributions": 2871,
-      "weeklyChange": 6,
-      "currentStreak": 15,
-      "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:41.696Z"
-    },
-    {
-      "username": "DayanEbrar0X",
-      "avatarUrl": "https://github.com/DayanEbrar0X.png?size=80",
-      "totalContributions": 2662,
-      "weeklyChange": 271,
-      "currentStreak": 4,
-      "source": "manual",
-      "lastUpdated": "2026-06-29T01:01:43.437Z"
-    },
-    {
-      "username": "addyosmani",
-      "avatarUrl": "https://github.com/addyosmani.png?size=80",
-      "totalContributions": 2644,
-      "weeklyChange": 17,
-      "currentStreak": 1,
-      "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:01.695Z"
-    },
-    {
-      "username": "paulirish",
-      "avatarUrl": "https://github.com/paulirish.png?size=80",
-      "totalContributions": 2440,
-      "weeklyChange": 0,
-      "currentStreak": 1,
-      "source": "github-api",
-      "lastUpdated": "2026-06-29T01:06:11.477Z"
-    },
-    {
-      "username": "tpope",
-      "avatarUrl": "https://github.com/tpope.png?size=80",
-      "totalContributions": 2410,
-      "weeklyChange": 0,
-      "currentStreak": 4,
-      "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:19.217Z"
-    },
-    {
-      "username": "ry",
-      "avatarUrl": "https://github.com/ry.png?size=80",
-      "totalContributions": 2361,
-      "weeklyChange": 131,
-      "currentStreak": 10,
-      "source": "github-api",
-      "lastUpdated": "2026-06-29T01:06:05.347Z"
-    },
-    {
-      "username": "hiteshchoudhary",
-      "avatarUrl": "https://github.com/hiteshchoudhary.png?size=80",
-      "totalContributions": 2352,
-      "weeklyChange": 36,
-      "currentStreak": 1,
-      "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:39.183Z"
-    },
-    {
-      "username": "sharkdp",
-      "avatarUrl": "https://github.com/sharkdp.png?size=80",
-      "totalContributions": 2297,
-      "weeklyChange": 0,
-      "currentStreak": 1,
-      "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:10.533Z"
-    },
-    {
-      "username": "mouredev",
-      "avatarUrl": "https://github.com/mouredev.png?size=80",
-      "totalContributions": 2245,
-      "weeklyChange": 0,
-      "currentStreak": 4,
-      "source": "github-api",
-      "lastUpdated": "2026-06-29T01:06:00.082Z"
-    },
-    {
-      "username": "yyx990803",
-      "avatarUrl": "https://github.com/yyx990803.png?size=80",
-      "totalContributions": 2159,
-      "weeklyChange": 0,
-      "currentStreak": 325,
-      "source": "manual",
-      "lastUpdated": "2026-06-29T01:01:52.128Z"
+      "lastUpdated": "2026-07-06T00:49:44.635Z"
     },
     {
       "username": "diego3g",
       "avatarUrl": "https://github.com/diego3g.png?size=80",
-      "totalContributions": 2145,
-      "weeklyChange": 583,
-      "currentStreak": 9,
+      "totalContributions": 2958,
+      "weeklyChange": 813,
+      "currentStreak": 16,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:06:06.363Z"
+      "lastUpdated": "2026-07-06T00:53:23.892Z"
+    },
+    {
+      "username": "Rich-Harris",
+      "avatarUrl": "https://github.com/Rich-Harris.png?size=80",
+      "totalContributions": 2947,
+      "weeklyChange": 0,
+      "currentStreak": 4,
+      "source": "manual",
+      "lastUpdated": "2026-07-06T00:49:36.526Z"
+    },
+    {
+      "username": "geohot",
+      "avatarUrl": "https://github.com/geohot.png?size=80",
+      "totalContributions": 2861,
+      "weeklyChange": 0,
+      "currentStreak": 3,
+      "source": "github-api",
+      "lastUpdated": "2026-07-06T00:53:02.351Z"
+    },
+    {
+      "username": "DayanEbrar0X",
+      "avatarUrl": "https://github.com/DayanEbrar0X.png?size=80",
+      "totalContributions": 2717,
+      "weeklyChange": 55,
+      "currentStreak": 9,
+      "source": "manual",
+      "lastUpdated": "2026-07-06T00:49:18.672Z"
+    },
+    {
+      "username": "ry",
+      "avatarUrl": "https://github.com/ry.png?size=80",
+      "totalContributions": 2691,
+      "weeklyChange": 330,
+      "currentStreak": 17,
+      "source": "github-api",
+      "lastUpdated": "2026-07-06T00:53:22.920Z"
+    },
+    {
+      "username": "addyosmani",
+      "avatarUrl": "https://github.com/addyosmani.png?size=80",
+      "totalContributions": 2647,
+      "weeklyChange": 3,
+      "currentStreak": 7,
+      "source": "manual",
+      "lastUpdated": "2026-07-06T00:49:32.188Z"
+    },
+    {
+      "username": "paulirish",
+      "avatarUrl": "https://github.com/paulirish.png?size=80",
+      "totalContributions": 2488,
+      "weeklyChange": 48,
+      "currentStreak": 3,
+      "source": "github-api",
+      "lastUpdated": "2026-07-06T00:53:28.434Z"
+    },
+    {
+      "username": "tpope",
+      "avatarUrl": "https://github.com/tpope.png?size=80",
+      "totalContributions": 2316,
+      "weeklyChange": 0,
+      "currentStreak": 1,
+      "source": "manual",
+      "lastUpdated": "2026-07-06T00:49:46.263Z"
+    },
+    {
+      "username": "hiteshchoudhary",
+      "avatarUrl": "https://github.com/hiteshchoudhary.png?size=80",
+      "totalContributions": 2315,
+      "weeklyChange": 0,
+      "currentStreak": 3,
+      "source": "github-api",
+      "lastUpdated": "2026-07-06T00:53:00.046Z"
+    },
+    {
+      "username": "sharkdp",
+      "avatarUrl": "https://github.com/sharkdp.png?size=80",
+      "totalContributions": 2252,
+      "weeklyChange": 0,
+      "currentStreak": 5,
+      "source": "manual",
+      "lastUpdated": "2026-07-06T00:49:38.886Z"
+    },
+    {
+      "username": "mouredev",
+      "avatarUrl": "https://github.com/mouredev.png?size=80",
+      "totalContributions": 2209,
+      "weeklyChange": 0,
+      "currentStreak": 6,
+      "source": "github-api",
+      "lastUpdated": "2026-07-06T00:53:18.208Z"
+    },
+    {
+      "username": "yyx990803",
+      "avatarUrl": "https://github.com/yyx990803.png?size=80",
+      "totalContributions": 2154,
+      "weeklyChange": 0,
+      "currentStreak": 7,
+      "source": "manual",
+      "lastUpdated": "2026-07-06T00:49:24.175Z"
     },
     {
       "username": "rasbt",
       "avatarUrl": "https://github.com/rasbt.png?size=80",
-      "totalContributions": 1583,
+      "totalContributions": 1548,
       "weeklyChange": 0,
-      "currentStreak": 4,
+      "currentStreak": 1,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:51.473Z"
+      "lastUpdated": "2026-07-06T00:53:10.028Z"
     },
     {
       "username": "BurntSushi",
       "avatarUrl": "https://github.com/BurntSushi.png?size=80",
-      "totalContributions": 1408,
-      "weeklyChange": 0,
-      "currentStreak": 10,
+      "totalContributions": 1426,
+      "weeklyChange": 18,
+      "currentStreak": 1,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:11.825Z"
+      "lastUpdated": "2026-07-06T00:49:40.194Z"
     },
     {
       "username": "guillaumepotier",
       "avatarUrl": "https://github.com/guillaumepotier.png?size=80",
-      "totalContributions": 1377,
-      "weeklyChange": 32,
-      "currentStreak": 4,
+      "totalContributions": 1382,
+      "weeklyChange": 5,
+      "currentStreak": 2,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:22.801Z"
+      "lastUpdated": "2026-07-06T00:49:49.889Z"
     },
     {
       "username": "wesbos",
       "avatarUrl": "https://github.com/wesbos.png?size=80",
-      "totalContributions": 1061,
+      "totalContributions": 1057,
       "weeklyChange": 0,
       "currentStreak": 2,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:06:04.012Z"
+      "lastUpdated": "2026-07-06T00:53:21.261Z"
     },
     {
       "username": "mdo",
       "avatarUrl": "https://github.com/mdo.png?size=80",
-      "totalContributions": 1026,
-      "weeklyChange": 14,
-      "currentStreak": 14,
+      "totalContributions": 1045,
+      "weeklyChange": 19,
+      "currentStreak": 18,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:00.237Z"
-    },
-    {
-      "username": "karpathy",
-      "avatarUrl": "https://github.com/karpathy.png?size=80",
-      "totalContributions": 884,
-      "weeklyChange": 0,
-      "currentStreak": 1,
-      "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:32.258Z"
+      "lastUpdated": "2026-07-06T00:49:30.783Z"
     },
     {
       "username": "pewdiepie-archdaemon",
       "avatarUrl": "https://github.com/pewdiepie-archdaemon.png?size=80",
-      "totalContributions": 821,
-      "weeklyChange": 33,
+      "totalContributions": 943,
+      "weeklyChange": 122,
+      "currentStreak": 6,
+      "source": "github-api",
+      "lastUpdated": "2026-07-06T00:53:29.570Z"
+    },
+    {
+      "username": "karpathy",
+      "avatarUrl": "https://github.com/karpathy.png?size=80",
+      "totalContributions": 892,
+      "weeklyChange": 8,
       "currentStreak": 2,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:06:12.757Z"
+      "lastUpdated": "2026-07-06T00:52:53.591Z"
     },
     {
       "username": "gaearon",
       "avatarUrl": "https://github.com/gaearon.png?size=80",
-      "totalContributions": 760,
-      "weeklyChange": 9,
-      "currentStreak": 2,
+      "totalContributions": 747,
+      "weeklyChange": 0,
+      "currentStreak": 6,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:01:53.355Z"
+      "lastUpdated": "2026-07-06T00:49:25.287Z"
     },
     {
       "username": "michaelliao",
       "avatarUrl": "https://github.com/michaelliao.png?size=80",
-      "totalContributions": 700,
+      "totalContributions": 698,
       "weeklyChange": 0,
       "currentStreak": 1,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:53.491Z"
+      "lastUpdated": "2026-07-06T00:53:11.790Z"
     },
     {
       "username": "adrianhajdin",
       "avatarUrl": "https://github.com/adrianhajdin.png?size=80",
-      "totalContributions": 676,
-      "weeklyChange": 0,
+      "totalContributions": 678,
+      "weeklyChange": 2,
       "currentStreak": 2,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:56.916Z"
-    },
-    {
-      "username": "antirez",
-      "avatarUrl": "https://github.com/antirez.png?size=80",
-      "totalContributions": 649,
-      "weeklyChange": 0,
-      "currentStreak": 1,
-      "source": "manual",
-      "lastUpdated": "2026-06-29T01:01:48.486Z"
+      "lastUpdated": "2026-07-06T00:53:15.022Z"
     },
     {
       "username": "bradtraversy",
       "avatarUrl": "https://github.com/bradtraversy.png?size=80",
-      "totalContributions": 631,
+      "totalContributions": 660,
+      "weeklyChange": 29,
+      "currentStreak": 1,
+      "source": "manual",
+      "lastUpdated": "2026-07-06T00:49:27.749Z"
+    },
+    {
+      "username": "antirez",
+      "avatarUrl": "https://github.com/antirez.png?size=80",
+      "totalContributions": 648,
       "weeklyChange": 0,
       "currentStreak": 1,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:01:57.404Z"
+      "lastUpdated": "2026-07-06T00:49:22.495Z"
     },
     {
       "username": "ruanyf",
       "avatarUrl": "https://github.com/ruanyf.png?size=80",
-      "totalContributions": 626,
-      "weeklyChange": 0,
+      "totalContributions": 627,
+      "weeklyChange": 1,
       "currentStreak": 3,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:36.212Z"
+      "lastUpdated": "2026-07-06T00:52:57.256Z"
     },
     {
       "username": "filipedeschamps",
       "avatarUrl": "https://github.com/filipedeschamps.png?size=80",
-      "totalContributions": 604,
+      "totalContributions": 603,
       "weeklyChange": 0,
       "currentStreak": 1,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:48.115Z"
+      "lastUpdated": "2026-07-06T00:53:07.510Z"
     },
     {
       "username": "kunal-kushwaha",
       "avatarUrl": "https://github.com/kunal-kushwaha.png?size=80",
-      "totalContributions": 490,
-      "weeklyChange": 13,
-      "currentStreak": 1,
+      "totalContributions": 522,
+      "weeklyChange": 32,
+      "currentStreak": 9,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:55.384Z"
+      "lastUpdated": "2026-07-06T00:53:13.710Z"
     },
     {
       "username": "WebDevSimplified",
@@ -1230,7 +1239,7 @@
       "weeklyChange": 0,
       "currentStreak": 1,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:06:08.350Z"
+      "lastUpdated": "2026-07-06T00:53:27.618Z"
     },
     {
       "username": "iam-veeramalla",
@@ -1239,25 +1248,25 @@
       "weeklyChange": 0,
       "currentStreak": 1,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:06:10.001Z"
+      "lastUpdated": "2026-07-06T00:53:26.565Z"
     },
     {
       "username": "3b1b",
       "avatarUrl": "https://github.com/3b1b.png?size=80",
-      "totalContributions": 262,
-      "weeklyChange": 4,
-      "currentStreak": 2,
+      "totalContributions": 261,
+      "weeklyChange": 0,
+      "currentStreak": 1,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:45.221Z"
+      "lastUpdated": "2026-07-06T00:53:05.130Z"
     },
     {
       "username": "getify",
       "avatarUrl": "https://github.com/getify.png?size=80",
-      "totalContributions": 173,
+      "totalContributions": 167,
       "weeklyChange": 0,
       "currentStreak": 1,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:02.701Z"
+      "lastUpdated": "2026-07-06T00:49:33.104Z"
     },
     {
       "username": "iamshaunjp",
@@ -1266,7 +1275,16 @@
       "weeklyChange": 0,
       "currentStreak": 2,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:06:07.337Z"
+      "lastUpdated": "2026-07-06T00:53:25.037Z"
+    },
+    {
+      "username": "dmalan",
+      "avatarUrl": "https://github.com/dmalan.png?size=80",
+      "totalContributions": 89,
+      "weeklyChange": 4,
+      "currentStreak": 1,
+      "source": "github-api",
+      "lastUpdated": "2026-07-06T00:53:17.096Z"
     },
     {
       "username": "rauchg",
@@ -1275,34 +1293,25 @@
       "weeklyChange": 0,
       "currentStreak": 1,
       "source": "manual",
-      "lastUpdated": "2026-06-29T01:02:21.383Z"
-    },
-    {
-      "username": "dmalan",
-      "avatarUrl": "https://github.com/dmalan.png?size=80",
-      "totalContributions": 85,
-      "weeklyChange": 0,
-      "currentStreak": 1,
-      "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:59.025Z"
+      "lastUpdated": "2026-07-06T00:49:48.614Z"
     },
     {
       "username": "llSourcell",
       "avatarUrl": "https://github.com/llSourcell.png?size=80",
-      "totalContributions": 76,
+      "totalContributions": 75,
       "weeklyChange": 0,
       "currentStreak": 1,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:57.986Z"
+      "lastUpdated": "2026-07-06T00:53:16.226Z"
     },
     {
       "username": "krishnaik06",
       "avatarUrl": "https://github.com/krishnaik06.png?size=80",
-      "totalContributions": 63,
+      "totalContributions": 59,
       "weeklyChange": 0,
       "currentStreak": 1,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:43.119Z"
+      "lastUpdated": "2026-07-06T00:53:03.238Z"
     },
     {
       "username": "StephenGrider",
@@ -1311,7 +1320,7 @@
       "weeklyChange": 0,
       "currentStreak": 1,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:06:15.093Z"
+      "lastUpdated": "2026-07-06T00:53:31.501Z"
     },
     {
       "username": "IDouble",
@@ -1320,7 +1329,7 @@
       "weeklyChange": 0,
       "currentStreak": 1,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:40.375Z"
+      "lastUpdated": "2026-07-06T00:53:00.957Z"
     },
     {
       "username": "CodeWithHarry",
@@ -1329,7 +1338,7 @@
       "weeklyChange": 0,
       "currentStreak": 1,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:44.077Z"
+      "lastUpdated": "2026-07-06T00:53:04.089Z"
     },
     {
       "username": "JohnMwendwa",
@@ -1338,7 +1347,7 @@
       "weeklyChange": 0,
       "currentStreak": 1,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:54.445Z"
+      "lastUpdated": "2026-07-06T00:53:12.697Z"
     },
     {
       "username": "gustavoguanabara",
@@ -1347,7 +1356,7 @@
       "weeklyChange": 0,
       "currentStreak": 1,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:34.259Z"
+      "lastUpdated": "2026-07-06T00:52:55.257Z"
     },
     {
       "username": "peng-zhihui",
@@ -1356,7 +1365,7 @@
       "weeklyChange": 0,
       "currentStreak": 1,
       "source": "github-api",
-      "lastUpdated": "2026-06-29T01:05:35.278Z"
+      "lastUpdated": "2026-07-06T00:52:56.272Z"
     }
   ]
 }
